@@ -1,5 +1,6 @@
 import styles from './styles.module.scss'
 import { VscGithubInverted } from 'react-icons/vsc'
+import logoImg from '../../assets/logo.svg'
 
 export function LoginBox() {
     return (
